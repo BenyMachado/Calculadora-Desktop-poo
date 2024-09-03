@@ -1,0 +1,56 @@
+# Arquivos e pastas de build
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+
+# Arquivos de configuração do Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.log
+*.tlog
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+# Padrões de pacotes NuGet (gerado pelo Visual Studio)
+packages/
+*.nuget/
+# Cache NuGet
+.nuget/
+# Diretórios de pacotes
+.packages/
+# Arquivos gerados
+*.dbmdl
+*.bak
+*.log
+*.sql
+*.sqlite
+*.suo
+
+# Arquivos de cache
+*.cache
+*.tmp
+*.swp
+*.swo
+
+# Configurações de usuário do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de sistema
+.DS_Store
+ehthumbs.db
+Icon?
